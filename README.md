@@ -3,7 +3,7 @@
 - 🌱 I’m currently Studying at S.R.M Vadapalani, Chennai, Tamilnadu
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
-- Gmail- krishkaslikar@yahoo.com
+- E-mail- krishkaslikar@yahoo.com
 - Instagram-iminvisible.nk
 
 <!---
