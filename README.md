@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Leisure-krish
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently Studying at S.R.M Vadapalani, Chennai, Tamilnadu
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 - E-mail- krishkaslikar@yahoo.com
