@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leisure-krish&label=Profile%20views&color=0e75b6&style=flat" alt="leisure-krish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leisure-krish" alt="leisure-krish" /></a> </p>
-
 I’m currently learning **Java Script/ Adv Python**
 
 All of my projects are available at [https://github.com/Leisure-krish](https://github.com/Leisure-krish)
