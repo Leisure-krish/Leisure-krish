@@ -14,13 +14,14 @@ Ask me about **Highly Interested in knowing everything about Hacking and then te
 How to reach me **krishkaslikar@yahoo.com**
 <h3 align="left">How to connect</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikunj-kaslikar-89b51928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikunj-kaslikar-89b51928a" height="30" width="40" />
+<a href="https://linkedin.com/in/nikunj-kaslikar-89b51928a" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikunj-kaslikar-89b51928a" height="30" width="40" />
 </a>
 </p>
 <h3 align="left">My Language set</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png" alt="bash" width="40" height="40"/> 
+<img src="https://freepngdesign.com/content/uploads/images/p-2744-3-bash-logo-png-transparent-logo-848251298474.png" alt="bash" width="50" height="40"/> 
 </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
