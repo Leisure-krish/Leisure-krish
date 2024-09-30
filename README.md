@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  How to reach me: [krishkaslikar@yahoo.com](mailto:krishkaslikar@yahoo.com)
+  How to reach me: [krishkaslikar@yahoo.com]
 </p>
 
 <h3 align="left">How to connect</h3>
