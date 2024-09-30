@@ -10,13 +10,8 @@
 </p>
 
 <p align="left">
-  All of my projects are available at [my GitHub](https://github.com/Leisure-krish).
+  All of my projects are available at (https://github.com/Leisure-krish).
 </p>
-
-<p align="left">
-  Ask me about my **high interest in hacking and testing techniques on my own**.
-</p>
-
 <p align="left">
   How to reach me: [krishkaslikar@yahoo.com]
 </p>
