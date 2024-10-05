@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  I’m currently learning JavaScript / Advanced Python.
+  I’m currently learning JavaScript / Advance Python.
 </p>
 
 <p align="left">
