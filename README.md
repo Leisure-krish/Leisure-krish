@@ -2,10 +2,6 @@
 <h3 align="center">Highly interested in cybersecurity and passionate hacker</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leisure-krish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
   I’m currently learning JavaScript / Advance Python.
 </p>
 
